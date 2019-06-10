@@ -9,6 +9,7 @@
   "author": "luca de cravalho",
   "license": "ISC",
   "dependencies": {
-    "chance": "^1.0.18"
+    "chance": "^1.0.18",
+    "express": "^4.17.1"
   }
 }
